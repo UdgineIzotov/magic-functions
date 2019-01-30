@@ -1,8 +1,8 @@
 {
   "name": "jsmp-infrastracture-magic-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "build/index.js",
   "scripts": {
     "compile": "babel src -d build",
     "build": "npm run clean && npm run compile",
