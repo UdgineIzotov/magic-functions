@@ -1,0 +1,8 @@
+#tests
+build/test.js
+
+#build tools
+.babelrc
+
+#editor settings
+.vscode
